@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "Bharat",
+      "Phone": "0000000000",
+      "address": "India",
+      "membership": "Platinum",
+      "id": "1"
+    },
+    {
+      "name": "Parmar",
+      "Phone": "1111111111",
+      "address": "US",
+      "membership": "Pro",
+      "id": "2"
+    }
+  ]
+}
